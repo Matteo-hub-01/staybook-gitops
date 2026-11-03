@@ -9,4 +9,4 @@ resources:
 images:
 - name: staybook-front
   newName: ghcr.io/matteo-hub-01/staybook-front
-  newTag: sha-23ad3b7
+  newTag: sha-c618288
