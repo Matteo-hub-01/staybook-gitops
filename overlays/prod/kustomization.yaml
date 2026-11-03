@@ -7,7 +7,8 @@ resources:
   - sealed-secrets.yaml
 images:
   - name: staybook-front
-    newTag: v1
+    newName: ghcr.io/matteo-hub-01/staybook-front
+    newTag: sha-c618288
 patches:
   - path: front-nodeport.yaml
     target:
